@@ -1,0 +1,15 @@
+h1{
+    background-color: #6495ed;
+}
+
+h3{
+    background-color: #8a2be2;
+}
+
+p{
+    color: #b8860b;
+}
+
+h1 + h3{
+    color: #64ed79;
+}
